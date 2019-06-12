@@ -10,3 +10,6 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [:godmode:](https://gist.github.com/rxaviers/7360908)
 
+[:sweat_drops:](https://gist.github.com/rxaviers/7360908)
+![Gota](https://image.freepik.com/fotos-gratis/agua-fundo-com-ondas-e-queda-de-queda_23-2147608327.jpg)
+
